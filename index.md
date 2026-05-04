@@ -16,15 +16,19 @@ The Observatory is motivated by research integrity assessment of randomised clin
 
 Repository: [RIPE-Observatory/RIPE-O](https://github.com/RIPE-Observatory/RIPE-O)
 
+Documentation: [https://w3id.org/ripe/ripe-o](https://w3id.org/ripe/ripe-o)
+
 ### RIPE-KG
 
 [RIPE-KG](https://w3id.org/ripe/ripe-kg) is a knowledge graph of research integrity assessment traces represented using RIPE-O. It is intended to make assessment results queryable together with the evidence and provenance behind them.
 
 Repository: [RIPE-Observatory/RIPE-KG](https://github.com/RIPE-Observatory/RIPE-KG)
 
+Interface: [https://ripe-kg.inspectai.app](https://ripe-kg.inspectai.app)
+
 ### INSPECT-AI
 
-[INSPECT-AI](https://w3id.org/ripe/inspect-ai) is an LLM-assisted tool for supporting human reviewers during research integrity assessment and for generating semantic provenance traces of the assessment process.
+[INSPECT-AI](https://w3id.org/ripe/inspect-ai) is a human-in-the-loop, LLM-assisted tool for supporting reviewers during research integrity assessment and for generating semantic provenance traces of the assessment process.
 
 Repository: [RIPE-Observatory/INSPECT-AI_open_source](https://github.com/RIPE-Observatory/INSPECT-AI_open_source)
 
@@ -41,7 +45,7 @@ Repository: [RIPE-Observatory/INSPECT-AI_open_source](https://github.com/RIPE-Ob
 * [Miriam Brazzelli](https://orcid.org/0000-0002-7576-6751), Aberdeen Centre for Evaluation, [University of Aberdeen](https://www.abdn.ac.uk/), UK
 * [Alison Avenell](https://orcid.org/0000-0003-4813-5628), Aberdeen Centre for Evaluation, [University of Aberdeen](https://www.abdn.ac.uk/), UK
 
-## Getting Started
+## Documentation
 
 Please see the [project documentation](./getting_started.html) for the main entry points to the ontology, knowledge graph, and software repositories.
 

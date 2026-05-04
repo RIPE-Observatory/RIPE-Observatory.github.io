@@ -4,7 +4,7 @@ layout: default
 
 [Back to main page](./)
 
-# Getting Started
+# Resources
 
 This page lists the main entry points for using the RIPE Observatory resources.
 
@@ -34,6 +34,10 @@ The RIPE-KG repository contains the data, mappings, configuration, and user inte
 
 [https://github.com/RIPE-Observatory/RIPE-KG](https://github.com/RIPE-Observatory/RIPE-KG)
 
+The live interface is available at:
+
+[https://ripe-kg.inspectai.app](https://ripe-kg.inspectai.app)
+
 ## Software
 
 INSPECT-AI is available at:
@@ -50,4 +54,4 @@ RIPE-O includes competency questions and SPARQL queries showing how assessment t
 
 [https://github.com/RIPE-Observatory/RIPE-O/tree/main/cqs](https://github.com/RIPE-Observatory/RIPE-O/tree/main/cqs)
 
-The queries cover assessed works, reviewers, evidence, publication notices, registry evidence, automated and human-reviewed outcomes, disagreements between outcomes, and human-validated overall assessment results.
+The queries cover works under assessment, reviewers, evidence, publication notices, registry evidence, automated and human-reviewed outcomes, disagreements between outcomes, and human-validated overall assessment results.

@@ -25,6 +25,14 @@ The Observatory is motivated by research integrity assessment of randomised clin
 >Markovic, M., Indukuri, G., Sripada, S., Vorland, C., Wilkinson, J., Robertson, C., Bolland, M., Grey, A., Brazzelli, M., & Avenell, A. (2026). RIPE Observatory.
 https://w3id.org/ripe
 
+## Participation in INSPECT-AI User Trials
+
+
+If you would like to contribute to RIPE-KG as part of our upcoming user trials and have experience in reviewing Randomised Clinical Trial publications please contact [Alison Avenell](https://orcid.org/0000-0003-4813-5628), Aberdeen Centre for Evaluation, [University of Aberdeen](https://www.abdn.ac.uk/) or [Milan Markovic](https://orcid.org/0000-0002-5477-287X), Interdisciplinary Institute, [University of Aberdeen](https://www.abdn.ac.uk/).
+
+
+
+
 ## Resources
 
 ### RIPE-O
